@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b94c335d627e7064c857a68d0aa47d9d, type: 3}
+  m_Name: ConsumedBehavior
+  m_EditorClassIdentifier: 
+  speed: 15
+  eyesUp: {fileID: 21300000, guid: 9ad270e08e219084db97592b63a52bf1, type: 3}
+  eyesDown: {fileID: 21300000, guid: 9b8efd92c2fb8994ca86c47ff4d061fb, type: 3}
+  eyesLeft: {fileID: 21300000, guid: 49dee753b4279d441a79100f0f52a608, type: 3}
+  eyesRight: {fileID: 21300000, guid: 819f01c89112ea64684eb7a63ea6382c, type: 3}

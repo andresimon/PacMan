@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9292d002ee31dd34a80b38583b408b0e, type: 3}
+  m_Name: Level3
+  m_EditorClassIdentifier: 
+  name: Level3
+  level: 3
+  pacManSpeed: 8
+  scatterModeTimes: 07000000070000000500000001000000
+  chaseModeTimes: 140000001400000009040000
+  frightenedDuration: 8
+  startingBlinkingAt: 5
+  pinkReleaseTime: 3
+  blueReleaseTime: 10
+  orangeReleaseTime: 15
+  speedIncrement: 2
+  consumedSpeedIncrement: 5
